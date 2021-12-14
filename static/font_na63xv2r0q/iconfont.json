@@ -1,0 +1,317 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "949",
+      "name": "买",
+      "font_class": "mai",
+      "unicode": "f001d",
+      "unicode_decimal": 983069
+    },
+    {
+      "icon_id": "145439",
+      "name": "添加用户",
+      "font_class": "tianjiayonghu",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "159971",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "f0171",
+      "unicode_decimal": 983409
+    },
+    {
+      "icon_id": "178797",
+      "name": "流水",
+      "font_class": "00743",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "201559",
+      "name": "火热",
+      "font_class": "huore",
+      "unicode": "f01f3",
+      "unicode_decimal": 983539
+    },
+    {
+      "icon_id": "472643",
+      "name": "icon_gfzj",
+      "font_class": "icon0201fuben19",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "525989",
+      "name": "交易记录",
+      "font_class": "jiaoyijilu",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "970778",
+      "name": "全部",
+      "font_class": "quanbu-copy",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "978324",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "982748",
+      "name": "金牌",
+      "font_class": "jinpai",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "1116547",
+      "name": "资讯",
+      "font_class": "zixun",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1236816",
+      "name": "应用市场",
+      "font_class": "04",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1411035",
+      "name": "6指数",
+      "font_class": "zhishu",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "1440892",
+      "name": "关于顾问",
+      "font_class": "guanyuguwen",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "1604944",
+      "name": "转账",
+      "font_class": "weibiaoti5",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "2076271",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e892",
+      "unicode_decimal": 59538
+    },
+    {
+      "icon_id": "2767650",
+      "name": "资讯",
+      "font_class": "zixun1",
+      "unicode": "e730",
+      "unicode_decimal": 59184
+    },
+    {
+      "icon_id": "4108148",
+      "name": "trade",
+      "font_class": "trade",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "4294111",
+      "name": "皇冠",
+      "font_class": "huangguan",
+      "unicode": "e798",
+      "unicode_decimal": 59288
+    },
+    {
+      "icon_id": "4528867",
+      "name": " 历史交易",
+      "font_class": "lishijiaoyi",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "4889728",
+      "name": "卖出",
+      "font_class": "maichu",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "5025800",
+      "name": "牛",
+      "font_class": "niu",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "5168883",
+      "name": "撤单",
+      "font_class": "chedan",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "5387752",
+      "name": "电脑_o",
+      "font_class": "diannao_o",
+      "unicode": "eb49",
+      "unicode_decimal": 60233
+    },
+    {
+      "icon_id": "5460560",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "ec2e",
+      "unicode_decimal": 60462
+    },
+    {
+      "icon_id": "5807579",
+      "name": "保本",
+      "font_class": "baoben",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "6211095",
+      "name": "1分析",
+      "font_class": "fenxi",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6282742",
+      "name": "借款期限",
+      "font_class": "jiekuanqixian",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "6337498",
+      "name": "编辑",
+      "font_class": "tianxie",
+      "unicode": "ec88",
+      "unicode_decimal": 60552
+    },
+    {
+      "icon_id": "6460199",
+      "name": "基金",
+      "font_class": "jijin",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "7718674",
+      "name": "广发商贸",
+      "font_class": "guangfashangmao",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "8372498",
+      "name": "持仓管理",
+      "font_class": "chicangguanli",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "8453452",
+      "name": "交易记录",
+      "font_class": "jiaoyijilu1",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "8481248",
+      "name": "广发还款查询",
+      "font_class": "guangfahuankuanchaxun",
+      "unicode": "e77a",
+      "unicode_decimal": 59258
+    },
+    {
+      "icon_id": "8766119",
+      "name": "钱币",
+      "font_class": "qianbi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "8860628",
+      "name": "data",
+      "font_class": "data",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8897339",
+      "name": "查询",
+      "font_class": "chaxun",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "9009443",
+      "name": "NEW",
+      "font_class": "NEW-copy",
+      "unicode": "e889",
+      "unicode_decimal": 59529
+    },
+    {
+      "icon_id": "9254153",
+      "name": "小天眼",
+      "font_class": "xiaotianyan",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "11755514",
+      "name": "业务办理",
+      "font_class": "peizhitubiaosvg-",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "13638679",
+      "name": "信",
+      "font_class": "xin",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "15838458",
+      "name": "data-view",
+      "font_class": "data-view",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "25015301",
+      "name": "关于广发-默认",
+      "font_class": "guanyuguangfa-moren",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "26212905",
+      "name": "货币-金币",
+      "font_class": "huobi-jinbi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}

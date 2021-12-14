@@ -1,0 +1,69 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/Market/Market"
+		},
+		{
+			"path": "pages/Found/Found"
+		},
+		{
+			"path": "pages/Manage/Manage"
+		},
+		{
+			"path":"pages/Trade/Trade"
+		},
+		{
+			"path":"pages/User/User"
+		}
+	],
+	"globalStyle": {
+		// #ifdef MP
+		"navigationStyle":"default",
+		// #endif
+		// #ifdef H5
+		"navigationStyle":"custom",
+		// #endif
+		"navigationBarBackgroundColor":"#eee",
+		"navigationBarTitleText":"广发易淘金",
+		"navigationBarTextStyle":"black"
+		
+	},
+	"tabBar": {
+		"position": "bottom",
+		"color": "#DDD",
+		"selectedColor": "#0055ff",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [
+		{
+			"pagePath": "pages/Found/Found",
+			"iconPath": "static/icon/灰色/icon0201fuben19.png",
+			"selectedIconPath": "static/icon/蓝色/icon0201fuben19.png",
+			"text": "发现"
+		},
+		{
+			"pagePath": "pages/Market/Market",
+			"iconPath": "static/icon/灰色/zhishu.png",
+			"selectedIconPath": "static/icon/蓝色/zhishu.png",
+			"text": "行情"
+		}, {
+			"pagePath": "pages/Trade/Trade",
+			"iconPath": "static/icon/灰色/trade.png",
+			"selectedIconPath": "static/icon/蓝色/trade.png",
+			"text": "交易"
+		},
+		{
+			"pagePath": "pages/Manage/Manage",
+			"iconPath": "static/icon/灰色/huobi-jinbi.png",
+			"selectedIconPath": "static/icon/蓝色/huobi-jinbi.png",
+			"text": "理财"
+		},
+		{
+			"pagePath": "pages/User/User",
+			"iconPath": "static/icon/灰色/yonghu.png",
+			"selectedIconPath": "static/icon/蓝色/yonghu.png",
+			"text": "我"
+		}
+		]
+	}
+}

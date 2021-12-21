@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "jin-tab-bar": "/components/jin-tab-bar/jin-tab-bar",
+    "jin-scrolly": "/components/jin-scrolly/jin-scrolly",
+    "uni-tag": "/components/uni-tag/uni-tag"
+  }
+}

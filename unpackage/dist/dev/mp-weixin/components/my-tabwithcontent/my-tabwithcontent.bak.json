@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "my-tab": "/components/my-tab/my-tab",
+    "uni-tag": "/components/uni-tag/uni-tag"
+  }
+}

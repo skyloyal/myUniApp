@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "pages/Found/Found"
+			// "style":{
+			// 	"enablePullDownRefresh":true
+			// }
 		},
 		{
 			"path": "pages/Manage/Manage"
